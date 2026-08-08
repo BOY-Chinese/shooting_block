@@ -1,0 +1,16 @@
+# 编译产物
+*.exe
+*.pyc
+__pycache__/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# 临时文件
+*.tmp
+*.log
